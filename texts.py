@@ -5,19 +5,18 @@
 """
 
 WELCOME = (
-    "👋 Привет, {username}!\n\n"
-    "Чтобы писать в этой группе, нужно вручную добавить <b>{required}</b> участник(а/ов).\n"
-    "Пока — можешь только читать."
+    "👋 Salam, {username}!\n\n"
+    "Gruppada ýazmak  üçin azyndan <b>{required}</b> adam goşmaly"
+    "Häzirlikçe diñe okap bilersiñiz."
 )
 
 BLOCKED = (
-    "🚫 {username}, добавь вручную <b>{required}</b> участник(а/ов) чтобы писать.\n"
-    "Уже добавлено: {added}/{required}."
+    "{username}, gruppada ýazmak  üçin azyndan <b>{required}</b> adam goşmaly"
 )
 
 SUCCESS = (
-    "✅ {username}, ты добавил(а) нужное количество участников!\n"
-    "Теперь можешь свободно писать. Добро пожаловать! 🎉"
+    "✅ {username}, siz gruppa adam goşdyñyz"
+    "Indi arkaýyn ýazyşyp bilersiñiz"
 )
 
 HELP = (
