@@ -6,8 +6,7 @@
 
 WELCOME = (
     "👋 Salam, {username}!\n\n"
-    "Gruppada ýazmak  üçin azyndan <b>{required}</b> adam goşmaly"  
-    
+    "Gruppada ýazmak  üçin azyndan <b>{required}</b> adam goşmaly\n"  
     "Häzirlikçe diñe okap bilersiñiz."
 )
 
@@ -16,8 +15,7 @@ BLOCKED = (
 )
 
 SUCCESS = (
-    "✅ {username}, siz gruppa adam goşdyñyz"
-    
+    "✅ {username}, siz gruppa adam goşdyñyz\n"
     "Indi arkaýyn ýazyşyp bilersiñiz"
 )
 
